@@ -1,4 +1,8 @@
 The full part list:
-ESP32 D1 Mini
-Power HD AR-3606HB (360°-Endlos-Servo)
-Ultrasonic HC-SR04
+  ESP32 D1 Mini
+  Power HD AR-3606HB (360°-infinity-Servo)
+  Ultrasonic HC-SR04
+  0,96 Zoll OLED Display SSD1306 128x64 I2C/IIC
+  6v 1500mA external power supply
+  2 breadboards
+  jumper wires
